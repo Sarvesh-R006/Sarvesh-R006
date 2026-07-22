@@ -29,7 +29,6 @@
 
 ## 🧠 About Me
 
-```js
 class Sarvesh {
   constructor() {
     this.name    = "Sarvesh Rajkumar";
@@ -50,7 +49,6 @@ class Sarvesh {
 
 const sarvesh = new Sarvesh();
 console.log(sarvesh);
-```
 
 <br>
 
