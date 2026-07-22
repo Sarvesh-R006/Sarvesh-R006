@@ -1,167 +1,81 @@
-<!-- ========================= BANNER ========================= -->
-
-<p align="center">
-  <img src="assets/banner.gif" alt="Banner" width="100%">
-</p>
+<!--
+  ⚠️ IMPORTANT — READ BEFORE USING ⚠️
+  GitHub usernames can't have spaces, so "SarveshR" below is a PLACEHOLDER.
+  Find & Replace "SarveshR" everywhere with your real GitHub username
+  before pasting this into your profile repo.
+-->
 
 <h1 align="center">Hi 👋, I'm Sarvesh</h1>
-
-<h3 align="center">
-Full Stack Developer • AI Developer • Freelancer
-</h3>
+<h3 align="center">A passionate Web Developer | JS • React • Node.js</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Developer;Freelance+Web+Developer;AI+Automation+Expert;Building+Innovative+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Full+Stack+JS+Developer;React+%7C+Node.js+%7C+MongoDB;Building+cool+things+for+the+web;Always+learning%2C+always+shipping+🚀" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SarveshR&label=Profile%20Views&color=39FF14&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/SarveshR?label=Followers&style=social" alt="followers" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sarvesh-rajkumar-4a2490366/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sarveshr.official@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-# 🚀 About Me
+### 🚀 About Me
 
-- 🎓 Engineering Student
-- 💻 Freelance Full Stack Developer
-- 🤖 AI Application Developer
-- 🌐 Website Developer
-- 📱 Android App Developer
-- 🎨 UI/UX Designer
-- 🎬 Working with a team of experienced video editors (5+ years)
-- 🌱 Currently learning Advanced AI, Cloud & DevOps
+- 🔭 I'm currently working on **cool web projects using React & Node.js**
+- 🌱 I'm currently learning **advanced JavaScript, system design & cloud**
+- 💬 Ask me about **JavaScript, React, Node.js, Express, MongoDB**
+- ⚡ Fun fact: **I love turning ideas into working code**
 
 ---
 
-# 🛠 Tech Stack
+### 🛠️ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,nodejs,express,tailwind,html,css,mysql,mongodb,firebase,git,github,docker,linux,vscode,figma&perline=10" />
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,figma,tailwind" />
 </p>
 
 ---
 
-# 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SarveshR&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarveshR&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=c9d1d9" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sarvesh-R006&show_icons=true&theme=tokyonight&hide_border=true"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SarveshR&theme=dark&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" alt="streak stats"/>
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarvesh-R006&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SarveshR&theme=react-dark&bg_color=0D1117&color=39FF14&line=39FF14&point=ffffff&hide_border=true" />
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+### 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Sarvesh-R006&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://raw.githubusercontent.com/SarveshR/SarveshR/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
+> ⚠️ The snake animation needs a one-time GitHub Actions setup (I've included the workflow file below — see instructions).
+
 ---
 
-# 📈 Contribution Graph
-
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarvesh-R006&theme=tokyo-night&hide_border=true"/>
-
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 </p>
 
----
-
-# 🏆 GitHub Trophies
-
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sarvesh-R006&theme=algolia&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
-# 💼 Services
-
-✅ Website Development
-
-✅ AI Chatbot Development
-
-✅ AI Automation
-
-✅ Android App Development
-
-✅ UI/UX Design
-
-✅ Graphic Design
-
-✅ Video Editing
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 🤖 AI Chatbot | Intelligent chatbot using LLMs |
-| 🌐 Portfolio Website | Personal portfolio website |
-| 🛒 E-Commerce | Full Stack shopping platform |
-| 📊 Expense Tracker | Finance management application |
-| 📱 Android App | Mobile application |
-| 🤖 AI Automation | Business workflow automation |
-
----
-
-# 📚 Currently Learning
-
-- Artificial Intelligence
-- Machine Learning
-- Cloud Computing
-- Docker
-- Kubernetes
-- DevOps
-- System Design
-
----
-
-# 🌍 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/Sarvesh-R006">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://github.com/Sarvesh-R006">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="mailto:your.email@example.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://your-portfolio.com">
-🌐 Portfolio
-</a>
-
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Sarvesh-R006&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</p>
-
----
-
-<p align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-*"Building innovative solutions through code."*
-
+  <i>⭐ From <a href="https://github.com/SarveshR">Sarvesh</a> — thanks for stopping by!</i>
 </p>
